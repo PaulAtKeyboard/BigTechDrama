@@ -1,12 +1,33 @@
 # facebook-data-scandal
 For history and research.
 
+## Notable People
+### Christopher Wylie
+* [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Wylie)
+* [Twitter](https://twitter.com/chrisinsilico)
+
+### David Carroll
+* [Twitter](https://twitter.com/profcarroll)
+
+### Brittany Kaiser
+* [Wikipedia](https://en.wikipedia.org/wiki/Brittany_Kaiser)
+
+### Carole Cadwalladr
+* [Wikipedia](https://en.wikipedia.org/wiki/Carole_Cadwalladr)
+* [Twitter](https://twitter.com/carolecadwalla)
+
+### Paul-Olivier Dehaye
+* [Twitter](https://twitter.com/podehaye)
+
+### Ravi Naik
+* [Twitter](https://twitter.com/ravina1k)
+
 ## News
 A broadcast or published report of news.
-
 ### United States Appearances
 * [WATCH: Cambridge Analytica whistleblower Christopher Wylie testifies before Senate](https://www.youtube.com/watch?v=d40RWyBnOBQ&t)
 * [Mark Zuckerberg testifies before Congress - watch live](https://www.youtube.com/watch?v=mZaec_mlq9M)
+* [Mark Zuckerberg testifies on Capitol Hill (full House hearing)](https://www.youtube.com/watch?v=hJdxOqnCNp8)
 
 ### United Kingdom Appearances
 * [Cambridge Analytica whistleblower Christopher Wylie appears before MPs - watch live](https://www.youtube.com/watch?v=X5g6IJm7YJQ)
