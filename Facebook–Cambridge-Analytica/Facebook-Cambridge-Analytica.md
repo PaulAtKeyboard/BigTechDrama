@@ -1,4 +1,4 @@
-# Big Tech Drama
+# Big Tech Drama.
 For history and research.
 Repository previously named as "Facebook-Cambridge-Analytica-data-scandal"
 
